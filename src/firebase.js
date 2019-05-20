@@ -3,8 +3,10 @@ import 'firebase/app'
 import 'firebase/database'
 
 const firebaseConfig = {
-  
-  };
+
+
+};
+
 
   firebase.initializeApp(firebaseConfig);
 
